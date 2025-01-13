@@ -1,0 +1,86 @@
+commit 9898a167e8740f7b359d84c6dc0baeecfc1512a2
+Author: jbatista7 <davja777@gmail.com>
+Date:   Mon Jan 13 14:59:06 2025 -0500
+
+    Add 2 paragraphs
+
+commit f2056965afd1eed358e56aa78a2b69e439f57122
+Merge: c3853d3 7e6d911
+Author: jbatista7 <davja777@gmail.com>
+Date:   Mon Jan 13 14:49:58 2025 -0500
+
+    Resolviendo conflicto en estaciones y fecha
+
+commit c3853d34ad7c7a4a05b2a83620e3d84798cf588c
+Author: jbatista7 <davja777@gmail.com>
+Date:   Mon Jan 13 11:43:13 2025 -0500
+
+    Agregando estaciones cno fecha
+
+commit 7e6d911191345dc7fb61eb424a70da576c2b0ed0
+Author: jbatista7 <davja777@gmail.com>
+Date:   Mon Jan 13 11:43:13 2025 -0500
+
+    Add estaciones
+
+commit 7e5cf4134599d63ee037a3c2c01e7be617b36a9e
+Merge: 20aa1d1 8773266
+Author: jbatista7 <davja777@gmail.com>
+Date:   Mon Jan 13 11:20:18 2025 -0500
+
+    Resolviendo conflicto
+
+commit 877326683c3831e8cae8487ccc725367f8da18d2
+Author: jbatista7 <davja777@gmail.com>
+Date:   Mon Jan 13 11:14:11 2025 -0500
+
+    Add index.js from index.htnl
+
+commit 20aa1d194a65e72abaf9e4a4a937d6b1a21faff6
+Author: jbatista7 <davja777@gmail.com>
+Date:   Mon Jan 13 11:11:42 2025 -0500
+
+    Add syle.css to index.html
+
+commit 3cd41a7313aa2b08d871bd99a5f61abc84f55bf4
+Merge: d949fbb 3da3c9f
+Author: jbatista7 <davja777@gmail.com>
+Date:   Fri Jan 10 10:50:37 2025 -0500
+
+    Merge branch 'js'
+
+commit 3da3c9f8ccaebf4475349bccbf467d241f99eab8
+Author: jbatista7 <davja777@gmail.com>
+Date:   Thu Jan 9 16:38:58 2025 -0500
+
+    Creating index.js
+
+commit d949fbb3c4f1f8f20a557f8817c65a56ce87bc63
+Author: jbatista7 <davja777@gmail.com>
+Date:   Thu Jan 9 16:34:23 2025 -0500
+
+    Creating style.css
+
+commit dd27d85b8dc9c78033336ae88c3b437faf5f2819
+Author: jbatista7 <davja777@gmail.com>
+Date:   Thu Jan 9 16:29:15 2025 -0500
+
+    Create index.html
+
+commit b685afb671f3863c974617288f4b39011c690c14
+Author: jbatista7 <davja777@gmail.com>
+Date:   Thu Jan 9 16:01:33 2025 -0500
+
+    Ignore .exe files
+
+commit 166647d733a96fbdf79648bd537d913e31c83c78
+Author: jbatista7 <davja777@gmail.com>
+Date:   Thu Jan 9 10:25:12 2025 -0500
+
+    Add content to readme
+
+commit 9e8143ba23dbe9e0937a43644210e81d50cf16e8
+Author: jbatista7 <davja777@gmail.com>
+Date:   Thu Jan 9 10:21:50 2025 -0500
+
+    first commit
